@@ -1,0 +1,25 @@
+### Home
+GET http://localhost:3000/
+
+###
+
+### Get all contacts
+GET http://localhost:3000/contacts
+
+###
+
+### Get single contact
+GET http://localhost:3000/contacts/6a49e4384a3c10f07b9f7942
+
+### Home (Render)
+GET https://project1-37d0.onrender.com/
+
+###
+
+### Get all contacts (Render)
+GET https://project1-37d0.onrender.com/contacts
+
+###
+
+### Get single contact (Render)
+GET https://project1-37d0.onrender.com/contacts/6a49e4384a3c10f07b9f7942
